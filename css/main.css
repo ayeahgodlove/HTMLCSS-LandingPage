@@ -41,8 +41,8 @@ padding-left */
 }
 /* Typography */
 .text-light { font-size: 30px; color:#a0a0a0;}
-..text-secondary { font-size: 30px; color: #faa541;}
-..text-primary { font-size: 16px; color: #364147;}
+.text-secondary { font-size: 30px; color: #faa541;}
+.text-primary { font-size: 16px; color: #364147;}
 /************* BASE STYLES *************/
 /* * { box-sizing: border-box; }
 body { font-family: 'Open Sans', sans-serif; font-size: 14px; line-height: 1.4; color: #364147; margin: 0; }
