@@ -22,7 +22,7 @@ padding-right
 padding-bottom
 padding-left */
 .btn {
-    cursor: grab;
+    cursor: pointer;
     border: 0;
     padding: 6px 12px;
     border-radius: 3px;
